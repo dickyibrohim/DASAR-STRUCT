@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1461939577 source:d:\struct pertemuan 12\struct 12\struct\fuction.c
+	"header.h"
+
+1461940585 d:\struct pertemuan 12\struct 12\struct\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1461941864 source:d:\struct pertemuan 12\struct 12\struct\main.c
+	"header.h"
+
+1461939577 source:g:\algorithm programming pertemuan 11\struct pertemuan 12\struct 12\struct\fuction.c
+	"header.h"
+
+1461940585 g:\algorithm programming pertemuan 11\struct pertemuan 12\struct 12\struct\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1461942439 source:g:\algorithm programming pertemuan 11\struct pertemuan 12\struct 12\struct\main.c
+	"header.h"
+
+1461939577 source:c:\bismillah uas algorithm programming\struct pertemuan 12\struct 12\struct\fuction.c
+	"header.h"
+
+1461940585 c:\bismillah uas algorithm programming\struct pertemuan 12\struct 12\struct\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
